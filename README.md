@@ -36,3 +36,4 @@ And then while using numpy sum function we will estimate the crownd.
 
 ![image](https://user-images.githubusercontent.com/78999231/195503119-55732de0-82d5-4c31-8f40-4c0a07e7ee12.png)
 
+The [video](https://drive.google.com/file/d/1t95w4GThZT-LlQFSWViFbEjBjlajkMVd/view?usp=sharing) for the detailed explanation is given here.
